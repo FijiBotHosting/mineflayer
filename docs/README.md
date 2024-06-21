@@ -263,7 +263,7 @@ npm test
 ### Testing specific version
 Run 
 
-```bash
+```bash bash 
 npm run mocha_test -- -g <version>
 ```
 
